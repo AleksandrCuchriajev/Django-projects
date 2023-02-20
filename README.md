@@ -1,2 +1,2 @@
-# Fask-projects
-My Flask projects
+# Django-projects
+My Django projects
